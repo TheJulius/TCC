@@ -1,0 +1,12 @@
+Functional appropriateness,Resource utilization,Capacity,Interoperability,User error protection,Fault tolerance,Confidentiality,Integrity,Modularity ,Reusability ,Analysability ,Testability ,Adaptability ,Installability 
+10,10,10,10,7,7,10,6,2,10,7,10,10,5
+5,5,3,10,0,10,0,7,0,0,10,10,5,3
+10,10,8,10,10,7,10,7,10,7,10,10,10,5
+7,6,6,10,2,0,0,0,7,2,7,10,7,5
+7,7,7,10,5,7,0,5,7,5,10,10,7,5
+7,10,10,7,7,7,10,10,5,7,5,10,5,3
+7,10,10,10,10,7,0,0,10,7,7,10,7,5
+5,5,5,7,0,7,0,0,5,7,7,5,10,5
+7,7,7,10,7,7,0,0,10,7,5,3,7,5
+7,7,7,10,0,7,0,0,2,2,3,3,7,5
+8,7,10,10,7,8,10,10,5,6,5,5,5,8
